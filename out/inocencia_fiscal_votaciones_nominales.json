@@ -1,0 +1,2015 @@
+{
+  "descripcion": "Votos nominales de las votaciones en general de la Ley de Inocencia Fiscal usados para cruzar con GANANCIAS SIMPLIFICADA LEY 27.799 del repo gastos-congresistas.",
+  "generado": "2026-06-10T22:37:16.339Z",
+  "fuentes": [
+    "https://comovoto.dev.ar/?ley=Inocencia%2520Fiscal",
+    "https://votaciones.hcdn.gob.ar/votacion/5838",
+    "https://www.senado.gob.ar/votaciones/detalleActa/2622"
+  ],
+  "votaciones": [
+    {
+      "ley": "Inocencia Fiscal",
+      "camara": "senadores",
+      "votacion_id_comovoto": 5465,
+      "acta_oficial": "2622",
+      "fecha": "26/12/2025 - 23:15",
+      "titulo": "Ley de Inocencia Fiscal.CD-31/25-PL,O.D. 701/2025",
+      "resultado": "AFIRMATIVO",
+      "totales": {
+        "afirmativo": 43,
+        "negativo": 26,
+        "abstencion": 0,
+        "ausente": 3
+      },
+      "fuente": "https://www.senado.gob.ar/votaciones/detalleActa/2622",
+      "votos": [
+        {
+          "legislador": "ABAD, MAXIMILIANO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ABDALA, BARTOLOME ESTEBAN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ALMEIDA, ROMINA MARIA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ALVAREZ RIVERO, CARMEN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ARCE, CARLOS OMAR",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ARRASCAETA, IVANNA MARCELA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ATAUCHE, EZEQUIEL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "AVILA, BEATRIZ LUISA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BEDIA, VILMA FACUNDA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BENEGAS LYNCH, JOAQUIN ALBERTO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BULLRICH, PATRICIA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CARAMBIA, JOSE MARIA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CERVI, MARIO PABLO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CORROZA, JULIETA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "COTO, AGUSTIN PEDRO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CRISTINA, ANDREA MARCELA",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ESPINOLA, CARLOS MAURICIO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FAMA, FLAVIO SERGIO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FULLONE, ENZO PAOLO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GADANO, NATALIA ELENA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GALARETTO, EDUARDO HORACIO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GODOY, JUAN CRUZ",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GOERLING LARA, ENRIQUE MARTIN",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GUZMAN CORAITA, GONZALO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "HUALA, MARIA VICTORIA",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "JUEZ, LUIS ALFREDO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "JURI, MARIANA",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "KRONEBERGER, DANIEL RICARDO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "LOSADA, CAROLINA",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MARQUEZ, NADIA JUDITH",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MONTE DE OCA, MARIA BELEN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MONTEVERDE, AGUSTIN ANIBAL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "OLIVERA LUCERO, BRUNO ANTONIO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "OROZCO, MARIA EMILIA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PAGOTTO, JUAN CARLOS",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PAOLTRONI, FRANCISCO MANUEL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ROJAS DECUT, SONIA ELIZABETH",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ROYON, FLAVIA GABRIELA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "SCHNEIDER, SILVANA LORENA",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "SUAREZ, RODOLFO ALEJANDRO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "TERENZI, EDITH ELIZABETH",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VALENZUELA, MERCEDES GABRIELA",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VISCHI, EDUARDO ALEJANDRO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ANDRADA, GUILLERMO EDUARDO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "UNAC, SERGIO MAURICIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "VIGO, ALEJANDRA MARIA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "BAHL, ADAN HUMBERTO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "BENSUSAN, DANIEL PABLO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CAPITANICH, JORGE MILTON",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CORPACCI, LUCIA BENIGNA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "DE PEDRO, EDUARDO ENRIQUE",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "DI TULLIO, JULIANA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "FERNANDEZ SAGASTI, ANABEL",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GIMENEZ NAVARRO, MARIA CELESTE",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GONZALEZ, MARIA TERESA MARGARITA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LEWANDOWSKI, MARCELO NESTOR",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LINARES, CARLOS ALBERTO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LOPEZ, CANDIDA CRISTINA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LOPEZ, MARIA FLORENCIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MANZUR, JUAN LUIS",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MARKS, ANA INES",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MAYANS, JOSE MIGUEL ANGEL",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MENDOZA, SANDRA MARIELA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MOISES, MARIA CAROLINA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MORENO, ELIA ESTHER DEL CARMEN",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "NEDER, JOSE EMILIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "RECALDE, MARIANO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "REJAL, JESUS FERNANDO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "SALINO, FERNANDO ALDO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "SORIA, MARTIN IGNACIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ZAMORA, GERARDO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        }
+      ]
+    },
+    {
+      "ley": "Inocencia Fiscal",
+      "camara": "diputados",
+      "votacion_id_comovoto": 5459,
+      "acta_oficial": "5838",
+      "fecha": "18/12/2025 - 02:33",
+      "titulo": "O.D. 3 - LEY DE INOCENCIA FISCAL. DICT. DE MAY. VOT. EN GRAL.",
+      "resultado": "AFIRMATIVO",
+      "totales": {
+        "afirmativo": 130,
+        "negativo": 107,
+        "abstencion": 2,
+        "ausente": 17
+      },
+      "fuente": "https://votaciones.hcdn.gob.ar/votacion/5838",
+      "votos": [
+        {
+          "legislador": "FERNANDEZ, JORGE",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "ABSTENCION"
+        },
+        {
+          "legislador": "TORRES, ALEJANDRA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "ABSTENCION"
+        },
+        {
+          "legislador": "AGUERO, GUILLERMO CESAR",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "AJMECHET, SABRINA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ALMENA, CARLOS ALBERTO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ALMIRON, LISANDRO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ALVAREZ, CLAUDIO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ANDREUSSI, BARBARA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ANSALONI, PABLO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ARABIA, DAMIAN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ARDOHAIN, MARTIN",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ARRUA, ALBERTO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "AVICO, BELEN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "AVILA, FERNANDA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BANFI, KARINA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BASUALDO, ATILIO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BECERRA, MONICA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BENEDIT, BELTRAN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BENEGAS LYNCH, BERTIE",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BIANCHETTI, EMMANUEL",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BONACCI, ROCIO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BONGIOVANNI, ALEJANDRO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BORNORONI, GABRIEL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BRIZUELA, ADRIAN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "BRUNO, ELIANA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CAMPERO, MARIANO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CAPOZZI, SERGIO EDUARDO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CARRANCIO, ALEJANDRO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CASTELNUOVO, GISELLE",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CHICONI, ABEL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CIPOLINI, GERARDO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "CORREA LLANO, FACUNDO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "DE ANDREIS, FERNANDO",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "DE SENSI, MARIA FLORENCIA",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "DIEZ, ROMINA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "EMMA, NICOLAS",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FALCONE, EDUARDO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FARGOSI, ALEJANDRO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FERNANDEZ MOLERO, DAIANA",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FERNANDEZ, ELIA MARINA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FERREYRA, ALIDA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FIGLIUOLO, SERGIO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FINOCCHIARO, ALEJANDRO",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FLORES, MARIA GABRIELA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FREGONESE, ALICIA",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "FRIAS, MAIRA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GALLARDO, MARIA VIRGINIA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GARCIA, ALVARO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GARCIA, CARLOS",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GARRIDO, JOSE LUIS",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GIAMPIERI, ANTONELA",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GIUDICI, SILVANA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GOITIA, ROSARIO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GONZALES, ALFREDO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GONZALEZ ESTEVARENA, MARIA LUISA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GONZALEZ, DIOGENES IGNACIO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GRUBER, MAURA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "GUZMAN, JAIRO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "HARTFIELD, DIEGO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "HERRERA, OSCAR",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "HOLZMAN, PATRICIA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "HUESEN, GERARDO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "HUMENUK, GLADYS",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "IBANEZ, MARIA CECILIA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "JAIME QUIROGA, CARLOS GUSTAVO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "LAUMANN, ANDRES ARIEL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "LEMOINE, LILIA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "LEONE, ANDRES",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "LLANO, MERCEDES",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "LLUCH, ENRIQUE",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "LONGO, JOHANNA SABRINA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MACYSZYN, LORENA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MARTINEZ, ALVARO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MAUREIRA, KARINA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MAYORAZ, NICOLAS",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MEDINA, GLADYS",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "METRAL ASENSIO, JULIETA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MOLINUEVO, SOLEDAD",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MONDACA, SOLEDAD",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MONGUILLOT, FERNANDO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MONTENEGRO, GUILLERMO TRISTAN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MONTENEGRO, JUAN PABLO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MORCHIO, FRANCISCO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MORENO OVALLE, JULIO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "MUNOZ, GABRIELA LUCIANA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "NIERI, LISANDRO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "NIVEYRO, MIRIAM",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "NOBLEGA, SEBASTIAN",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "OJEDA, JOAQUIN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PAREJA, SEBASTIAN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PATINO BRIZUELA, MARCOS",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PAULI, SANTIAGO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PELLEGRINI, AGUSTIN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PELLI, FEDERICO AGUSTIN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PELUC, JOSE",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PETRI, LUIS",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PETROVICH, MARIA LORENA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PICAT, LUIS ALBINO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PICON MARTINEZ, NANCY VIVIANA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "PONCE, MARIA CELESTE",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "QUINTAR, MANUEL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "RAVERA, VALENTINA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "RAVIER, ADRIAN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "RAZZINI, VERONICA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "REICHARDT, KAREN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "RIESCO, GASTON",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "RITONDO, CRISTIAN",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ROCA, GONZALO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "RODRIGUEZ MACHADO, LAURA ELENA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "RODRIGUEZ, MIGUEL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "RUIZ, YAMILA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "SANCHEZ WRBA, JAVIER",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "SANTILLAN JUAREZ BRAHIM, JULIANA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "SANTURIO, SANTIAGO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "SCHNEIDER, DARIO",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "SOLDANO, LAURA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "TOMASSONI, YAMILE",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "TORRES, RUBEN DARIO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "TORTORIELLO, ANIBAL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "TOURNIER, JOSE FEDERICO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "TREFFINGER, CESAR",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "URIEN, HERNAN",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VANCSIK, DANIEL",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VASQUEZ, PATRICIA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VEGA, YOLANDA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VERA, ANDREA FERNANDA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VERASAY, PAMELA FERNANDA",
+          "coalicion": "ucr",
+          "coalicion_nombre": "UCR / ARI",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VILLAVERDE, LORENA",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "VISCONTI, GINO",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "YEZA, MARTIN",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ZAGO, OSCAR",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": "ZAPATA, CARLOS RAUL",
+          "coalicion": "lla",
+          "coalicion_nombre": "LLA",
+          "voto": "AFIRMATIVO"
+        },
+        {
+          "legislador": ",",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "AVEIRO, MARTIN",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "AVILA, JORGE ANTONIO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "BIELLA, BERNARDO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "DAIVES, RICARDO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "FARIAS, PABLO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "FRADE, MONICA",
+          "coalicion": "cc",
+          "coalicion_nombre": "Coalicion Civica",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "FREITES, ANDREA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "GOMEZ, JOSE",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "GONZALEZ, ALVARO",
+          "coalicion": "pro",
+          "coalicion_nombre": "JxC / PRO / UCR",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "GONZALEZ, GERARDO GUSTAVO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "NOGUERA, JAVIER",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "OUTES, PABLO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "PICHETTO, MIGUEL ANGEL",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "SNOPEK, GUILLERMO EUGENIO MARIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "TAILHADE, RODOLFO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "TITA, PAULO AGUSTIN",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "AUSENTE"
+        },
+        {
+          "legislador": "AGUIRRE, HILDA CLELIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ALI, ERNESTO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ANDINO, CRISTIAN",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ANDRADE, JAVIER",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ARAUJO HERNANDEZ, JORGE NERI",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ARRIETA, LOURDES MICAELA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "BARBUR, MARCELO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "BASTERRA, LUIS EUGENIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "BASUALDO, CAROLINA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "BORDET, GUSTAVO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "BORGATTA, ALEJANDRINA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "BREGMAN, MYRIAM",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "BRUGGE, JUAN FERNANDO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CAFIERO, SANTIAGO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CAMPITELLI, CELIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CAMPO, JULIETA MARISOL",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CAMPORA, LUCIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CARIGNANO, FLORENCIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CASAS, SERGIO GUILLERMO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CASTAGNETO, CARLOS DANIEL",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CHICA, JORGE",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "CISNEROS, CARLOS",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "COLETTA, MARIELA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "DE LA ROSA, MARIA GRACIELA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "DE LA SOTA, NATALIA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "DEL CANO, NICOLAS",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "DEL PLA, ROMINA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "DIAZ, FERNANDA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "DOLCE, SERGIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ESTEVEZ, GABRIELA BEATRIZ",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "FELIX, EMIR",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "FERRAN, ABELARDO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "FERRARO, MAXIMILIANO",
+          "coalicion": "cc",
+          "coalicion_nombre": "Coalicion Civica",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GALMARINI, SEBASTIAN",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GARCIA ARESCA, IGNACIO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GARCIA, MARIA TERESA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GIULIANO, DIEGO A.",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GLINSKI, JOSE",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GRABOIS, JUAN",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GUTIERREZ, CARLOS",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "GUTIERREZ, RAMIRO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "HADAD, RAUL",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "HAGMAN, ITAI",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "IANNI, ANA MARIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "JULIANO, PABLO",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "KIRCHNER, MAXIMO CARLOS",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LANESAN SANCHO, MOIRA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LEIVA, ALDO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LOPEZ PASQUALI, CECILIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LOPEZ, JIMENA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LOUSTEAU, MARTIN",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "LUQUE, JUAN PABLO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MANGO, MARCELO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MANRIQUE, MARIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MARCLAY, MARIANELA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MARIN, VARINIA LIS",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MARINO, JUAN",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MARTINEZ, GERMAN PEDRO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MASSOT, NICOLAS",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MICHEL, GUILLERMO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MINO, FERNANDA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MOLINA, JUAN CARLOS",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MOLLE, MATIAS",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MONZON, ROXANA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MOREAU, CECILIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MOYANO, HUGO ANTONIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "MUKDISE, JORGE",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "NEDER, ESTELA MARY",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "NUNEZ, JOSE",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "OLMOS, KELLY",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "OSUNA, BLANCA INES",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PAGANO, MARCELA MARINA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PALAZZO, SERGIO OMAR",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PALLADINO, CLAUDIA MARIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PAROLA, MARIA GRACIELA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PAULON, ESTEBAN",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PEDRALI, GABRIELA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PENACCA, PAULA ANDREA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PIETRAGALLA CORTI, HORACIO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PITROLA, NESTOR",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "POKOIK, LORENA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "POTENZA, LUCIANA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "PROPATO, AGUSTINA LUCRECIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "RAUSCHENBERGER, ARIEL",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "RIZZOTTI, JORGE",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ROBERTO, SANTIAGO LUIS",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ROSSI, AGUSTIN OSCAR",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "SALZMANN, MARINA DOROTEA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "SAND, NANCY",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "SCAGLIA, GISELA",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "SELVA, SABRINA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "SERQUIS, ADRIANA CRISTINA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "SILEY, VANESA RAQUEL",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "STRADA, JULIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "TAIANA, JORGE ENRIQUE",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "TEPP, CAREN",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "TODERO, PABLO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "TOLOSA PAZ, VICTORIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "TROTTA, NICOLAS ALFREDO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "VALDES, EDUARDO FELIX",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "VELAZQUEZ, M. ELENA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "VOLNOVICH, LUANA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "YASKY, HUGO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "YEDLIN, PABLO RAUL",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ZARACHO, NATALIA",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ZIGARAN, MARIA INES",
+          "coalicion": "oth",
+          "coalicion_nombre": "Otros",
+          "voto": "NEGATIVO"
+        },
+        {
+          "legislador": "ZULLI, CHRISTIAN ALEJANDRO",
+          "coalicion": "pj",
+          "coalicion_nombre": "PJ / Union por la Patria",
+          "voto": "NEGATIVO"
+        }
+      ]
+    }
+  ]
+}
